@@ -2,16 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://coopnet.cc/2016/02/16/Blade-and-Soul/</loc>
+    <loc>http://coopnet.cc/snippets/index.html</loc>
     
-    <lastmod>2016-02-17T03:03:25.748Z</lastmod>
+    <lastmod>2016-03-20T12:16:52.337Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://coopnet.cc/snippets/index.html</loc>
+    <loc>http://coopnet.cc/cs2810/index.html</loc>
     
-    <lastmod>2016-02-16T09:45:34.407Z</lastmod>
+    <lastmod>2016-03-20T12:10:24.110Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://coopnet.cc/cs3030/index.html</loc>
+    
+    <lastmod>2016-03-20T12:04:51.184Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://coopnet.cc/2016/02/16/Blade-and-Soul/</loc>
+    
+    <lastmod>2016-02-17T03:03:25.748Z</lastmod>
     
   </url>
   
